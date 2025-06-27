@@ -1,4 +1,4 @@
-## 📌 Descripción
+## Descripción
 
 <!--
 Redactar en español e incluir:
@@ -11,7 +11,7 @@ Redactar en español e incluir:
 
 ---
 
-## 🔍 Validación manual (si aplica)
+## Validación manual (si aplica)
 
 <!--
 Indicar pasos realizados y sus resultados esperados/obtenidos.
@@ -23,7 +23,7 @@ Ejemplo:
 
 ---
 
-## 🧩 Referencias
+## Referencias
 
 <!--
 Incluir issue o RFC relacionado.
@@ -35,7 +35,7 @@ Ref: RFC-2025-003
 
 ---
 
-## ✅ Checklist
+## Checklist
 
 <!--
 No edites las casillas. Marca [x] si se cumple.
