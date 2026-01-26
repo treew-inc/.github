@@ -29,7 +29,7 @@ Ejemplo:
 Incluir issue o RFC relacionado.
 
 Ejemplos:
-Closes: #456
+Closes #456
 Ref: RFC-2025-003
 -->
 
